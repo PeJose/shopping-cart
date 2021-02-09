@@ -6,7 +6,7 @@
         @checkout="submitCheckout"
       ></shopping-cart>
       <v-snackbar v-model="snackbar" timeout="3000" top>
-        Your transaction was submitted!
+        Your order has been submitted successfully!
       </v-snackbar>
     </v-main>
   </v-app>
@@ -39,6 +39,4 @@ export default {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>

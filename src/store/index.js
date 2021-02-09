@@ -8,7 +8,7 @@ const state = {
   subtotal: 0,
   total: 0,
   shipping: 0,
-  shipping_1: 10,
+  shipping_1: 23.80,
   shipping_2: 0,
   products: [],
   products_mock: products_mock,
